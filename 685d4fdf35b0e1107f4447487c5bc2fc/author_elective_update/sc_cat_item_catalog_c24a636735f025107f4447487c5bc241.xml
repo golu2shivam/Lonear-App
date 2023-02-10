@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="Demo_Age">070ae7af35b025107f4447487c5bc2e3</sc_cat_item>
+        <sc_catalog display_value="DEMO">2469232735f025107f4447487c5bc278</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-10 08:54:47</sys_created_on>
+        <sys_id>c24a636735f025107f4447487c5bc241</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>DEMO.Demo_Age</sys_name>
+        <sys_package display_value="Lonear Request" source="x_cdltd_lonear_req">685d4fdf35b0e1107f4447487c5bc2fc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Lonear Request">685d4fdf35b0e1107f4447487c5bc2fc</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_c24a636735f025107f4447487c5bc241</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-02-10 08:54:47</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Lonear Request">685d4fdf35b0e1107f4447487c5bc2fc</application>
+        <file_path/>
+        <instance_id>ad89a5a697bca91484bbf9f11153af38</instance_id>
+        <instance_name>nowlearning-nlinst00569694-dev-001</instance_name>
+        <name>sc_cat_item_catalog_c24a636735f025107f4447487c5bc241</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="INSERT_OR_UPDATE"><sc_cat_item display_value="Demo_Age">070ae7af35b025107f4447487c5bc2e3</sc_cat_item><sc_catalog display_value="DEMO">2469232735f025107f4447487c5bc278</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-02-10 08:54:47</sys_created_on><sys_id>c24a636735f025107f4447487c5bc241</sys_id><sys_mod_count>0</sys_mod_count><sys_name>DEMO.Demo_Age</sys_name><sys_package display_value="Lonear Request" source="x_cdltd_lonear_req">685d4fdf35b0e1107f4447487c5bc2fc</sys_package><sys_policy/><sys_scope display_value="Lonear Request">685d4fdf35b0e1107f4447487c5bc2fc</sys_scope><sys_update_name>sc_cat_item_catalog_c24a636735f025107f4447487c5bc241</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-02-10 08:54:47</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>-534868055</payload_hash>
+        <record_name>DEMO.Demo_Age</record_name>
+        <reverted_from/>
+        <source>8cbddb6735b025107f4447487c5bc244</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-10 08:54:48</sys_created_on>
+        <sys_id>ca4a636735f025107f4447487c5bc244</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1863a88c80f0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-02-10 08:54:48</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>064a63677cf02510421bf87812f18d44</update_guid>
+        <update_guid_history>064a63677cf02510421bf87812f18d44:-534868055</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="DEMO.Demo_Age">933defe735f025107f4447487c5bc23c</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-10 09:07:43</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>01f6c6b8feea491180cd22cde33db0a1</sys_id>
+        <sys_metadata>c24a636735f025107f4447487c5bc241</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>DEMO.Demo_Age</sys_name>
+        <sys_package display_value="Lonear Request" source="x_cdltd_lonear_req">685d4fdf35b0e1107f4447487c5bc2fc</sys_package>
+        <sys_parent display_value="">070ae7af35b025107f4447487c5bc2e3</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Lonear Request">685d4fdf35b0e1107f4447487c5bc2fc</sys_scope>
+        <sys_scope_delete display_value="">6b3814207e62472cb648de466bea7419</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_c24a636735f025107f4447487c5bc241</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_c24a636735f025107f4447487c5bc241">ca4a636735f025107f4447487c5bc244</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-02-10 09:07:43</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

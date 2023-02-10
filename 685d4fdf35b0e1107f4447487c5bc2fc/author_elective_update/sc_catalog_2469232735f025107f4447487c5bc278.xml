@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_catalog">
+    <sc_catalog action="DELETE">
+        <active>true</active>
+        <background_color>white</background_color>
+        <description>TEST</description>
+        <desktop_continue_shopping/>
+        <desktop_home_page/>
+        <desktop_image/>
+        <editors/>
+        <enable_wish_list>false</enable_wish_list>
+        <manager display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</manager>
+        <sys_class_name>sc_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-10 08:52:25</sys_created_on>
+        <sys_id>2469232735f025107f4447487c5bc278</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>DEMO</sys_name>
+        <sys_package display_value="Lonear Request" source="x_cdltd_lonear_req">685d4fdf35b0e1107f4447487c5bc2fc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Lonear Request">685d4fdf35b0e1107f4447487c5bc2fc</sys_scope>
+        <sys_update_name>sc_catalog_2469232735f025107f4447487c5bc278</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-02-10 08:52:25</sys_updated_on>
+        <title>DEMO</title>
+    </sc_catalog>
+    <sys_translated_text action="DELETE" query="documentkey=2469232735f025107f4447487c5bc278"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Lonear Request">685d4fdf35b0e1107f4447487c5bc2fc</application>
+        <file_path/>
+        <instance_id>ad89a5a697bca91484bbf9f11153af38</instance_id>
+        <instance_name>nowlearning-nlinst00569694-dev-001</instance_name>
+        <name>sc_catalog_2469232735f025107f4447487c5bc278</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_catalog"><sc_catalog action="INSERT_OR_UPDATE"><active>true</active><background_color>white</background_color><description>TEST</description><desktop_continue_shopping/><desktop_home_page/><desktop_image/><editors/><enable_wish_list>false</enable_wish_list><manager display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</manager><sys_class_name>sc_catalog</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-02-10 08:52:25</sys_created_on><sys_id>2469232735f025107f4447487c5bc278</sys_id><sys_mod_count>0</sys_mod_count><sys_name>DEMO</sys_name><sys_package display_value="Lonear Request" source="x_cdltd_lonear_req">685d4fdf35b0e1107f4447487c5bc2fc</sys_package><sys_policy/><sys_scope display_value="Lonear Request">685d4fdf35b0e1107f4447487c5bc2fc</sys_scope><sys_update_name>sc_catalog_2469232735f025107f4447487c5bc278</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-02-10 08:52:25</sys_updated_on><title>DEMO</title></sc_catalog><sys_translated_text action="delete_multiple" query="documentkey=2469232735f025107f4447487c5bc278"/></record_update>]]></payload>
+        <payload_hash>-471437598</payload_hash>
+        <record_name>DEMO</record_name>
+        <reverted_from/>
+        <source>8cbddb6735b025107f4447487c5bc244</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-10 08:52:25</sys_created_on>
+        <sys_id>5fb9672735f025107f4447487c5bc2cb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1863a869c1e0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-02-10 08:52:25</sys_updated_on>
+        <type>Catalog</type>
+        <update_guid>97b96727bdf02510d3f2a50120ed88cb</update_guid>
+        <update_guid_history>97b96727bdf02510d3f2a50120ed88cb:-471437598</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="DEMO">134d232b35f025107f4447487c5bc2ce</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-10 09:07:59</sys_created_on>
+        <sys_db_object display_value="" name="sc_catalog">sc_catalog</sys_db_object>
+        <sys_id>79be59cdfdd448b8a24a42eb74ea9a40</sys_id>
+        <sys_metadata>2469232735f025107f4447487c5bc278</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>DEMO</sys_name>
+        <sys_package display_value="Lonear Request" source="x_cdltd_lonear_req">685d4fdf35b0e1107f4447487c5bc2fc</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Lonear Request">685d4fdf35b0e1107f4447487c5bc2fc</sys_scope>
+        <sys_scope_delete display_value="">6b3814207e62472cb648de466bea7419</sys_scope_delete>
+        <sys_update_name>sc_catalog_2469232735f025107f4447487c5bc278</sys_update_name>
+        <sys_update_version display_value="sc_catalog_2469232735f025107f4447487c5bc278">5fb9672735f025107f4447487c5bc2cb</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-02-10 09:07:59</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
