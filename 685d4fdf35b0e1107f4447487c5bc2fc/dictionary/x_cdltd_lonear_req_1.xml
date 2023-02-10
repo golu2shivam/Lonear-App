@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="Lonear Request " max_length="40" name="x_cdltd_lonear_req_1" type="collection">
+        <element label="Lonear Request Number" max_length="40" name="lonear_request_number" type="integer" use_dynamic_default="true"/>
+        <element label="Request Number" max_length="40" name="request_number" type="integer"/>
+    </element>
+</database>
