@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="INSERT_OR_UPDATE">
+        <active>false</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description/>
+        <field>customer_phone</field>
+        <global>true</global>
+        <isolate_script>true</isolate_script>
+        <messages/>
+        <name>Validate Phone Number </name>
+        <order/>
+        <script><![CDATA[function onChange(control, oldValue, newValue, isLoading, isTemplate) {
+    if (isLoading || newValue === '') {
+        return;
+    }
+
+    var phoneNum = /^\(?([0-9]{3})\)?[-. ]?([0-9]{3})[-. ]?([0-9]{4})$/;
+    g_form.addInfoMessage('Phone number ' + phoneNum);
+    if (newValue.lenght >= 10 && newValue.value.match(phoneNum)) {
+        g_form.setValue('customer_phone', newValue);
+    } else {
+        g_form.showFieldMsg('customer_phone', 'Please enter valid phone number');
+
+    }
+    //Type appropriate comment here, and begin script below
+
+}]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-13 06:43:43</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>415d16a83549e5107f4447487c5bc239</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>Validate Phone Number </sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Lonear Request" source="x_cdltd_lonear_req">685d4fdf35b0e1107f4447487c5bc2fc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Lonear Request">685d4fdf35b0e1107f4447487c5bc2fc</sys_scope>
+        <sys_update_name>sys_script_client_415d16a83549e5107f4447487c5bc239</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-02-13 06:50:55</sys_updated_on>
+        <table>x_cdltd_lonear_req_1</table>
+        <type>onChange</type>
+        <ui_type>0</ui_type>
+        <view/>
+    </sys_script_client>
+</record_update>

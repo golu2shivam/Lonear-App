@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="Lonear Request ">49509b9335f0e1107f4447487c5bc2dc</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Lonear Requests List</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_cdltd_lonear_req_1</name>
+        <order>200</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-12 07:34:40</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>54da2ddc35c5a5107f4447487c5bc28a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Lonear Requests List</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Lonear Request" source="x_cdltd_lonear_req">685d4fdf35b0e1107f4447487c5bc2fc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Lonear Request">685d4fdf35b0e1107f4447487c5bc2fc</sys_scope>
+        <sys_update_name>sys_app_module_54da2ddc35c5a5107f4447487c5bc28a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-02-12 07:34:40</sys_updated_on>
+        <timeline_page/>
+        <title>Lonear Requests List</title>
+        <uncancelable>false</uncancelable>
+        <view_name>Lonear Requests List</view_name>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Lonear Request">685d4fdf35b0e1107f4447487c5bc2fc</application>
+        <file_path/>
+        <instance_id>ad89a5a697bca91484bbf9f11153af38</instance_id>
+        <instance_name>nowlearning-nlinst00569694-dev-001</instance_name>
+        <name>sys_app_module_54da2ddc35c5a5107f4447487c5bc28a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Lonear Request ">49509b9335f0e1107f4447487c5bc2dc</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>Lonear Requests List</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_cdltd_lonear_req_1</name><order>200</order><override_menu_roles>false</override_menu_roles><query/><report/><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-02-12 07:34:40</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>54da2ddc35c5a5107f4447487c5bc28a</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Lonear Requests List</sys_name><sys_overrides/><sys_package display_value="Lonear Request" source="x_cdltd_lonear_req">685d4fdf35b0e1107f4447487c5bc2fc</sys_package><sys_policy/><sys_scope display_value="Lonear Request">685d4fdf35b0e1107f4447487c5bc2fc</sys_scope><sys_update_name>sys_app_module_54da2ddc35c5a5107f4447487c5bc28a</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-02-12 07:34:40</sys_updated_on><timeline_page/><title>Lonear Requests List</title><uncancelable>false</uncancelable><view_name>Lonear Requests List</view_name><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>1396854059</payload_hash>
+        <record_name>Lonear Requests List</record_name>
+        <reverted_from/>
+        <source>8cbddb6735b025107f4447487c5bc244</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-12 07:34:40</sys_created_on>
+        <sys_id>7b1be9103509a5107f4447487c5bc209</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>186448c23ec0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-02-12 07:34:40</sys_updated_on>
+        <type>Module</type>
+        <update_guid>b31be9101909a51022eecd82cbb91109</update_guid>
+        <update_guid_history>b31be9101909a51022eecd82cbb91109:1396854059</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Lonear Requests List">999ba1503509a5107f4447487c5bc292</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-12 07:36:41</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>536e9a1a66244df0b3239db608bb24f1</sys_id>
+        <sys_metadata>54da2ddc35c5a5107f4447487c5bc28a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Lonear Requests List</sys_name>
+        <sys_package display_value="Lonear Request" source="x_cdltd_lonear_req">685d4fdf35b0e1107f4447487c5bc2fc</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Lonear Request">685d4fdf35b0e1107f4447487c5bc2fc</sys_scope>
+        <sys_scope_delete display_value="">6b3814207e62472cb648de466bea7419</sys_scope_delete>
+        <sys_update_name>sys_app_module_54da2ddc35c5a5107f4447487c5bc28a</sys_update_name>
+        <sys_update_version display_value="sys_app_module_54da2ddc35c5a5107f4447487c5bc28a">7b1be9103509a5107f4447487c5bc209</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-02-12 07:36:41</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

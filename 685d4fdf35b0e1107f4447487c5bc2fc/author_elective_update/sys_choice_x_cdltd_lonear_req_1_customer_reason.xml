@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="customer_reason" table="x_cdltd_lonear_req_1" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>customer_reason</element>
+            <name>x_cdltd_lonear_req_1</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-13 07:04:02</sys_created_on>
+            <sys_id>f4bd62a83589e5107f4447487c5bc217</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>customer_reason</sys_name>
+            <sys_package display_value="Lonear Request" source="x_cdltd_lonear_req">685d4fdf35b0e1107f4447487c5bc2fc</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Lonear Request">685d4fdf35b0e1107f4447487c5bc2fc</sys_scope>
+            <sys_update_name>sys_choice_x_cdltd_lonear_req_1_customer_reason</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-02-13 07:04:02</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>customer_reason</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Sales</label>
+            <language>en</language>
+            <name>x_cdltd_lonear_req_1</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-13 07:04:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>70bd62a83589e5107f4447487c5bc217</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-02-13 07:04:02</sys_updated_on>
+            <value>sales</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>customer_reason</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Marketing</label>
+            <language>en</language>
+            <name>x_cdltd_lonear_req_1</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-13 07:04:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b4bd62a83589e5107f4447487c5bc21a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-02-13 07:04:02</sys_updated_on>
+            <value>marketing</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>customer_reason</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Business</label>
+            <language>en</language>
+            <name>x_cdltd_lonear_req_1</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-13 07:04:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>78bd62a83589e5107f4447487c5bc21c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-02-13 07:04:02</sys_updated_on>
+            <value>business</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>customer_reason</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Support</label>
+            <language>en</language>
+            <name>x_cdltd_lonear_req_1</name>
+            <sequence>3</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-13 07:04:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3cbd62a83589e5107f4447487c5bc21e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-02-13 07:04:02</sys_updated_on>
+            <value>support</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>customer_reason</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Other</label>
+            <language>en</language>
+            <name>x_cdltd_lonear_req_1</name>
+            <sequence>4</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-13 07:04:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fcbd62a83589e5107f4447487c5bc220</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-02-13 07:04:02</sys_updated_on>
+            <value>other</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

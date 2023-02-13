@@ -4,13 +4,13 @@
             <element>u_field_name_1</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-02-13 05:12:55</sys_created_on>
-            <sys_id>c1449e603549e5107f4447487c5bc2b8</sys_id>
+            <sys_created_on>2023-02-13 07:04:03</sys_created_on>
+            <sys_id>85bd62a83589e5107f4447487c5bc245</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Primary Details" display_value="Primary Details" name="x_cdltd_lonear_req_1" sys_domain="global" view="ac445e603549e5107f4447487c5bc2cc">30449e603549e5107f4447487c5bc21e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-02-13 05:12:55</sys_updated_on>
+            <sys_updated_on>2023-02-13 07:04:03</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -18,13 +18,13 @@
             <element>number</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-02-13 05:12:55</sys_created_on>
-            <sys_id>c9449e603549e5107f4447487c5bc2b8</sys_id>
+            <sys_created_on>2023-02-13 07:04:03</sys_created_on>
+            <sys_id>4dbd62a83589e5107f4447487c5bc245</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Primary Details" display_value="Primary Details" name="x_cdltd_lonear_req_1" sys_domain="global" view="ac445e603549e5107f4447487c5bc2cc">30449e603549e5107f4447487c5bc21e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-02-13 05:12:55</sys_updated_on>
+            <sys_updated_on>2023-02-13 07:04:03</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -32,13 +32,13 @@
             <element>customer_phone</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-02-13 05:12:55</sys_created_on>
-            <sys_id>4d449e603549e5107f4447487c5bc2b8</sys_id>
+            <sys_created_on>2023-02-13 07:04:03</sys_created_on>
+            <sys_id>cdbd62a83589e5107f4447487c5bc245</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Primary Details" display_value="Primary Details" name="x_cdltd_lonear_req_1" sys_domain="global" view="ac445e603549e5107f4447487c5bc2cc">30449e603549e5107f4447487c5bc21e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-02-13 05:12:55</sys_updated_on>
+            <sys_updated_on>2023-02-13 07:04:03</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -46,13 +46,13 @@
             <element>cmdb_ci</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-02-13 05:12:55</sys_created_on>
-            <sys_id>cd449e603549e5107f4447487c5bc2b8</sys_id>
+            <sys_created_on>2023-02-13 07:04:03</sys_created_on>
+            <sys_id>41bd62a83589e5107f4447487c5bc246</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Primary Details" display_value="Primary Details" name="x_cdltd_lonear_req_1" sys_domain="global" view="ac445e603549e5107f4447487c5bc2cc">30449e603549e5107f4447487c5bc21e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-02-13 05:12:55</sys_updated_on>
+            <sys_updated_on>2023-02-13 07:04:03</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -60,97 +60,125 @@
             <element>assignment_group</element>
             <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-02-13 05:12:55</sys_created_on>
-            <sys_id>41449e603549e5107f4447487c5bc2b9</sys_id>
+            <sys_created_on>2023-02-13 07:04:03</sys_created_on>
+            <sys_id>c1bd62a83589e5107f4447487c5bc246</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Primary Details" display_value="Primary Details" name="x_cdltd_lonear_req_1" sys_domain="global" view="ac445e603549e5107f4447487c5bc2cc">30449e603549e5107f4447487c5bc21e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-02-13 05:12:55</sys_updated_on>
+            <sys_updated_on>2023-02-13 07:04:03</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>customer_reason</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-13 07:04:03</sys_created_on>
+            <sys_id>45bd62a83589e5107f4447487c5bc246</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Primary Details" display_value="Primary Details" name="x_cdltd_lonear_req_1" sys_domain="global" view="ac445e603549e5107f4447487c5bc2cc">30449e603549e5107f4447487c5bc21e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-02-13 07:04:03</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
-            <position>5</position>
+            <position>6</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-02-13 05:12:55</sys_created_on>
-            <sys_id>c1449e603549e5107f4447487c5bc2b9</sys_id>
+            <sys_created_on>2023-02-13 07:04:03</sys_created_on>
+            <sys_id>c5bd62a83589e5107f4447487c5bc246</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Primary Details" display_value="Primary Details" name="x_cdltd_lonear_req_1" sys_domain="global" view="ac445e603549e5107f4447487c5bc2cc">30449e603549e5107f4447487c5bc21e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-02-13 05:12:55</sys_updated_on>
+            <sys_updated_on>2023-02-13 07:04:03</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>priority</element>
-            <position>6</position>
+            <position>7</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-02-13 05:12:55</sys_created_on>
-            <sys_id>45449e603549e5107f4447487c5bc2b9</sys_id>
+            <sys_created_on>2023-02-13 07:04:03</sys_created_on>
+            <sys_id>49bd62a83589e5107f4447487c5bc246</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Primary Details" display_value="Primary Details" name="x_cdltd_lonear_req_1" sys_domain="global" view="ac445e603549e5107f4447487c5bc2cc">30449e603549e5107f4447487c5bc21e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-02-13 05:12:55</sys_updated_on>
+            <sys_updated_on>2023-02-13 07:04:03</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>state</element>
-            <position>7</position>
+            <position>8</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-02-13 05:12:55</sys_created_on>
-            <sys_id>c5449e603549e5107f4447487c5bc2b9</sys_id>
+            <sys_created_on>2023-02-13 07:04:03</sys_created_on>
+            <sys_id>c9bd62a83589e5107f4447487c5bc246</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Primary Details" display_value="Primary Details" name="x_cdltd_lonear_req_1" sys_domain="global" view="ac445e603549e5107f4447487c5bc2cc">30449e603549e5107f4447487c5bc21e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-02-13 05:12:55</sys_updated_on>
+            <sys_updated_on>2023-02-13 07:04:03</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>parent</element>
-            <position>8</position>
+            <position>9</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-02-13 05:12:55</sys_created_on>
-            <sys_id>49449e603549e5107f4447487c5bc2b9</sys_id>
+            <sys_created_on>2023-02-13 07:04:03</sys_created_on>
+            <sys_id>4dbd62a83589e5107f4447487c5bc246</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Primary Details" display_value="Primary Details" name="x_cdltd_lonear_req_1" sys_domain="global" view="ac445e603549e5107f4447487c5bc2cc">30449e603549e5107f4447487c5bc21e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-02-13 05:12:55</sys_updated_on>
+            <sys_updated_on>2023-02-13 07:04:03</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>active</element>
-            <position>9</position>
+            <position>10</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-02-13 05:12:55</sys_created_on>
-            <sys_id>c9449e603549e5107f4447487c5bc2b9</sys_id>
+            <sys_created_on>2023-02-13 07:04:03</sys_created_on>
+            <sys_id>cdbd62a83589e5107f4447487c5bc246</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Primary Details" display_value="Primary Details" name="x_cdltd_lonear_req_1" sys_domain="global" view="ac445e603549e5107f4447487c5bc2cc">30449e603549e5107f4447487c5bc21e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-02-13 05:12:55</sys_updated_on>
+            <sys_updated_on>2023-02-13 07:04:03</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>assigned_to</element>
-            <position>10</position>
+            <position>11</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-02-13 05:12:55</sys_created_on>
-            <sys_id>4d449e603549e5107f4447487c5bc2b9</sys_id>
+            <sys_created_on>2023-02-13 07:04:03</sys_created_on>
+            <sys_id>41bd62a83589e5107f4447487c5bc247</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Primary Details" display_value="Primary Details" name="x_cdltd_lonear_req_1" sys_domain="global" view="ac445e603549e5107f4447487c5bc2cc">30449e603549e5107f4447487c5bc21e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-02-13 05:12:55</sys_updated_on>
+            <sys_updated_on>2023-02-13 07:04:03</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>other_reason</element>
+            <position>12</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-13 07:04:03</sys_created_on>
+            <sys_id>c1bd62a83589e5107f4447487c5bc247</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Primary Details" display_value="Primary Details" name="x_cdltd_lonear_req_1" sys_domain="global" view="ac445e603549e5107f4447487c5bc2cc">30449e603549e5107f4447487c5bc21e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-02-13 07:04:03</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
