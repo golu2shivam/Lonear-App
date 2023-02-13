@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="New Section" section_id="f0449e603549e5107f4447487c5bc220" sys_domain="global" table="x_cdltd_lonear_req_1" version="3" view="Customer_View">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>customer_website</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-13 05:12:55</sys_created_on>
+            <sys_id>cd449e603549e5107f4447487c5bc2c5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_cdltd_lonear_req_1" sys_domain="global" view="ac445e603549e5107f4447487c5bc2cc">f0449e603549e5107f4447487c5bc220</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-02-13 05:12:55</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-13 05:12:55</sys_created_on>
+            <sys_id>41449e603549e5107f4447487c5bc2c6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_cdltd_lonear_req_1" sys_domain="global" view="ac445e603549e5107f4447487c5bc2cc">f0449e603549e5107f4447487c5bc220</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-02-13 05:12:55</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>customer_dob</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-13 05:12:55</sys_created_on>
+            <sys_id>c1449e603549e5107f4447487c5bc2c6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_cdltd_lonear_req_1" sys_domain="global" view="ac445e603549e5107f4447487c5bc2cc">f0449e603549e5107f4447487c5bc220</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-02-13 05:12:55</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>New Section</caption>
+            <header>false</header>
+            <name>x_cdltd_lonear_req_1</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-13 05:12:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f0449e603549e5107f4447487c5bc220</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_cdltd_lonear_req_1</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Lonear Request" source="x_cdltd_lonear_req">685d4fdf35b0e1107f4447487c5bc2fc</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Lonear Request">685d4fdf35b0e1107f4447487c5bc2fc</sys_scope>
+            <sys_update_name>sys_ui_section_f0449e603549e5107f4447487c5bc220</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-02-13 05:12:53</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Customer View" name="Customer_View">ac445e603549e5107f4447487c5bc2cc</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
