@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="task" label="Lonear Request " max_length="40" name="x_cdltd_lonear_req_1" sizeclass="0" type="collection">
+    <element extends="task" label="Lonear Request " max_length="40" name="x_cdltd_lonear_req_1" sizeclass="2" type="collection">
         <element attributes="edge_encryption_enabled=true" label="DOB" max_length="40" name="customer_dob" type="glide_date"/>
         <element attributes="edge_encryption_enabled=true" label="Phone Number" mandatory="true" max_length="40" name="customer_phone" type="string"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Reason" max_length="40" name="customer_reason" type="string">

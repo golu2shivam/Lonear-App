@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="Lonear Task" max_length="40" name="x_cdltd_lonear_req_lonear_task" sizeclass="0" type="collection"/>
+</database>

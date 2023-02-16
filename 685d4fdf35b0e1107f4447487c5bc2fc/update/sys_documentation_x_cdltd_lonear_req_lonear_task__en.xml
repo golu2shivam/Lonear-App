@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="Lonear Task" language="en" table="x_cdltd_lonear_req_lonear_task">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Lonear Task</label>
+            <language>en</language>
+            <name>x_cdltd_lonear_req_lonear_task</name>
+            <plural>Lonear Tasks</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-15 09:36:14</sys_created_on>
+            <sys_id>b1b3a1993581a9107f4447487c5bc2b2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Lonear Task</sys_name>
+            <sys_package display_value="Lonear Request" source="x_cdltd_lonear_req">685d4fdf35b0e1107f4447487c5bc2fc</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Lonear Request">685d4fdf35b0e1107f4447487c5bc2fc</sys_scope>
+            <sys_update_name>sys_documentation_x_cdltd_lonear_req_lonear_task__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-02-15 09:36:14</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
